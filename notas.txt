@@ -1,0 +1,4 @@
+20 de octubre 
+Se conecto el backend con lo que buscaba bien.
+Me falta hacer el CRUD de profesor con notas
+.
